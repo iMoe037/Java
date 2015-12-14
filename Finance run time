@@ -1,0 +1,58 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Welcome to the finance program please enter an interest rate from 0 to 100 in a double/integer format:9.0
+What would you like to calculate?
+ press 1 for the cost of the item
+ press 2 for monthly payment
+ press 3 for loan period
+2
+Enter a postive value for the cost:
+32000.00
+Enter a postive value for loan period:
+30
+The monthly payment is: 257.47923742233
+The total amount of interest is 60692.525472038804 and it exceeds the cost of the item.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Welcome to the finance program please enter an interest rate from 0 to 100 in a double/integer format:18.78
+What would you like to calculate?
+ press 1 for the cost of the item
+ press 2 for monthly payment
+ press 3 for loan period
+3
+Enter a postive value for the cost:
+2400.00
+Enter a postive value for monthly payments:
+50
+The loan period is: 7.46519248754117
+The total amount of interest is 2079.115492524702 and it is less than the cost of the item.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Welcome to the finance program please enter an interest rate from 0 to 100 in a double/integer format:7.0
+What would you like to calculate?
+ press 1 for the cost of the item
+ press 2 for monthly payment
+ press 3 for loan period
+1
+Enter a postive value for monthly payments:
+116.11
+Enter a postive value for loan period:
+10
+The cost is: 10000.130979355383
+The total amount of interest is 3933.069020644616 and it is less than the cost of the item.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Welcome to the finance program please enter an interest rate from 0 to 100 in a double/integer format:2.94
+What would you like to calculate?
+ press 1 for the cost of the item
+ press 2 for monthly payment
+ press 3 for loan period
+3
+Enter a postive value for the cost:
+8398.70
+Enter a postive value for monthly payments:
+20.57
+Please enter the values of a proper loan!
+Enter a postive value for the cost:
+
+
